@@ -1,0 +1,10 @@
+body{ 
+    margin: 0px;
+    padding: 0px;
+    background-image: url(../../Assets/img/alooooo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    background-attachment: fixed;
+    font-family: 'Segoe UI', Arial, Helvetica, sans-serif;
+}

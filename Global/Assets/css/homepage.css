@@ -1,0 +1,37 @@
+.cabecalho{
+    width: 100%;
+    height:80px ;
+    background-color: #fed349;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Icone_lang > img {
+    width: 80px;
+    margin-left: 30px;
+}
+
+.links{
+    display: flex;
+    margin-left: 20%;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 25px;
+    
+}
+
+.links > a{
+    margin-left: 100px;
+    text-decoration: none; 
+    color: #d24d54;
+}
+
+.links > a:hover{
+
+    color: purple;
+}
+
+
+
+
+
